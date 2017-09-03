@@ -1,7 +1,7 @@
 
 # Tone Analyzer
 
-This project uses the following versions-
+This project uses the following -
 - Spark version- 2.2.0
 - Jupyter NB version- 5.0.0
 
